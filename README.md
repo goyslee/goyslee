@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zsolt
 - 👀 I’m interested in starting a professional carrier in Web Development
-- 🌱 I’m currently learning Node JS, REACT, MongoDB
-- 💞️ I’m looking to collaborate on any javascript project.
+- 🌱 I’m currently learning Full Stack Development on Codecademy. This includes, Html, Css, Git/GitHub JavaScript, NodeJs, Postgres SQL, PHP, Python. 
+- 💞️ I’m looking to collaborate on any javascript project as this is the program language interest me the most and I am focusing on.
 - 📫 How to reach me: goyslee@gmail.com
 
 <!---
